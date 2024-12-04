@@ -1,5 +1,7 @@
 # acerteONumero-Js-Programacao
-Jogo de adivinhar qual é o numero utilizando alerts em JS
+Jogo de adivinhar qual é o numero utilizando *Alerts* em JS
+
+ > Link para que vc possa jogar - [Click para Jogar 🎮🕹️ ](https://acerte-o-numero-1.vercel.app/?vercelToolbarCode=LC3TPN7PQCkTRWI)
 
 ## Iniciando com JS 
 - Preparamos o ambiente de desenvolvimento com a instalação do Visual Studio Code para criar programas utilizando a linguagem JavaScript;
@@ -34,4 +36,4 @@ Jogo de adivinhar qual é o numero utilizando alerts em JS
 
 - Descobrimos como utilizar a função Math.random() para gerar um número aleatório, permitindo a criação de desafios e jogos mais dinâmicos e variados.
 
-![baita-desafio](https://github.com/user-attachments/assets/9e745115-f65f-41a5-b5b3-fe6aa640ff4d)
+
